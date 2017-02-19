@@ -1,0 +1,25 @@
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Page1.baml
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Page1.g.cs
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\App.g.cs
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\WpfBrowserApplication1.Properties.Resources.resources
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.csproj.GenerateResource.Cache
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\minibursary.baml
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\minibursary.g.cs
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\bursaryadmin.baml
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\bursaryadmin.g.cs
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\bin\Debug\Automated Bursary System.exe.config
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\bin\Debug\Automated Bursary System.exe.manifest
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\bin\Debug\Automated Bursary System.xbap
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\bin\Debug\Automated Bursary System.exe
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\bin\Debug\Automated Bursary System.pdb
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\schoolAdmin.baml
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\schoolAdmin.g.cs
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System_Content.g.cs
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System_MarkupCompile.cache
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.g.resources
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.TrustInfo.xml
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.exe.manifest
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.xbap
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.exe
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\obj\Debug\Automated Bursary System.pdb
+C:\Users\INGENIO\Desktop\AUTOMATED BURSARY SYSTEM\The App\Automated Bursary System\WpfBrowserApplication1\bin\Debug\absDatabase.accdb

@@ -1,0 +1,14 @@
+﻿<Page x:Class="WpfBrowserApplication1.schoolAdmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="560"
+	Title="schoolAdmin">
+
+    <Grid>
+        <Label Content="School Administration" Height="43" HorizontalAlignment="Left" Margin="282,0,0,0" Name="label1" VerticalAlignment="Top" Width="266" FontStretch="ExtraCondensed" FontWeight="SemiBold" FontSize="24" FlowDirection="RightToLeft" />
+        <DataGrid AutoGenerateColumns="False" Height="239" HorizontalAlignment="Left" Margin="12,49,0,0" Name="dataGridd" VerticalAlignment="Top" Width="536" />
+    </Grid>
+</Page>
